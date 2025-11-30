@@ -1,0 +1,3 @@
+-- lean-toolchain
+-- Especifica la versión de Lean 4 a usar / Specifies Lean 4 version to use
+leanprover/lean4:v4.12.0
